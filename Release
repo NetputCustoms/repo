@@ -1,8 +1,8 @@
-Origin: Repo
-Label: Repo2
+Origin: Your Repo’s Name
+Label: Your Repository’s label that shows on a tweaks package page
 Suite: stable
 Version: 1.0
-Codename: ios
+Codename: cydia-ios
 Architectures: iphoneos-arm
 Components: main
-Description: Repo3
+Description:  The name that shows on Cydia
