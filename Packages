@@ -1,0 +1,14 @@
+Package: ua.netput.soundcloud
+Name: Soundcloud
+Version: 1.0
+Architecture: iphoneos-arm 
+Description: Soundcloud app
+Maintainer: What
+Author: What
+Section: Applications
+Depends: 
+Filename: debs/ua.netput.soundcloud_iphoneos-arm_1.0.deb
+Size: 0
+MD5sum: 0
+SHA1: 0
+SHA256: 0
